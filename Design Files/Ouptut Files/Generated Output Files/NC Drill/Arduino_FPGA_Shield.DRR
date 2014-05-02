@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Arduino_FPGA_Shield.PcbDoc   5/1/2014  11:09:02 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : Arduino_FPGA_Shield-RoundHoles.TXT
+ASCII SlotHoles File : Arduino_FPGA_Shield-SlotHoles.TXT
+EIA File   : Arduino_FPGA_Shield.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        8mil (0.2032mm)          Round          4                0.11 Inch (2.72 mm)
+T2        10mil (0.254mm)          Round          178              15.27 Inch (387.91 mm)
+T3        16mil (0.4064mm)         Round          6                0.75 Inch (19.03 mm)
+T4        28mil (0.7112mm)         Round          3                1.12 Inch (28.40 mm)
+T5        34mil (0.8636mm)         Round          32               5.06 Inch (128.52 mm)
+T6        35mil (0.889mm)          Round          36               6.71 Inch (170.33 mm)
+T7        36mil (0.9144mm)         Round          32               3.60 Inch (91.44 mm)
+T8        38mil (0.9652mm)         Round          6                0.50 Inch (12.70 mm)
+T9        39mil (0.9906mm)         Slot           3                286.81 Inch (7284.86 mm)
+T10       126mil (3.2004mm)        Round          1                0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            301              319.92 Inch (8125.91 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

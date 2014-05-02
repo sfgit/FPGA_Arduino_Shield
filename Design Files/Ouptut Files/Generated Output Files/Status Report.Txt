@@ -1,0 +1,3 @@
+Output: Design Rules Check
+Type  : DRC
+From  : PCB Document [Arduino_FPGA_Shield.PcbDoc]
