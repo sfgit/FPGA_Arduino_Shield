@@ -611,6 +611,406 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document37]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Prototype_2.cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document38]
+DocumentPath=LEDS - Status.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document39]
+DocumentPath=TESTPOINT_TH.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document40]
+DocumentPath=TESTPOINT_TH.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document41]
+DocumentPath=LED-GREEN-APT1608SGC.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document42]
+DocumentPath=LED0603.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document43]
+DocumentPath=Arduino - FPGA Development Board.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\NC Drill\Arduino_FPGA_Shield-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\NC Drill\Arduino_FPGA_Shield-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\NC Drill\Arduino_FPGA_Shield.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\NC Drill\Arduino_FPGA_Shield.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GM69
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\DRC\Arduino_FPGA_Shield.html
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\NC Drill\Arduino_FPGA_Shield.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.REP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\Arduino_FPGA_Shield.REP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Gerber\Arduino_FPGA_Shield.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\user\Arduino_FPGA_Shield.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\bottomoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\bottompaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\bottomsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\keepout\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\mechanical1\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\mechanical2\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\mechanical4\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\mechanical7\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\mechanical13\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\mechanical15\features
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\mechanical16\features
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\mechanical20\features
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\mechanical69\features
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\plane1\features
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\plane2\features
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\rout\features
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\topoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\topsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\symbols\oblong_th178.1102x99.3701x45x4x10_90\features
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\symbols\oblong_th178.1102x99.3701x45x4x10_180\features
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Pick Place\Pick Place for Arduino_FPGA_Shield.csv
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\Pick Place\Pick Place for Arduino_FPGA_Shield.txt
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for Arduino - FPGA Development Board\Generated Output Files\ODB\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -626,7 +1026,7 @@ AutoOpenFile=-1
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
-ProjectMode=-1
+ProjectMode=0
 ZoomPrecision=50
 AddNetsInformation=-1
 AddNetPins=-1

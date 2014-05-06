@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: Arduino_FPGA_Shield.PcbDoc   5/2/2014  3:39:41 PM
+NCDrill File Report For: Arduino_FPGA_Shield.PcbDoc   5/6/2014  10:57:03 AM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top to Bottom
@@ -9,16 +9,16 @@ EIA File   : Arduino_FPGA_Shield.DRL
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        10mil (0.254mm)          Round          182              15.44 Inch (392.15 mm)
-T2        16mil (0.4064mm)         Round          6                0.75 Inch (19.03 mm)
+T1        10mil (0.254mm)          Round          188              16.13 Inch (409.79 mm)
+T2        16mil (0.4064mm)         Round          10               1.46 Inch (37.07 mm)
 T3        28mil (0.7112mm)         Round          3                1.12 Inch (28.40 mm)
 T4        34mil (0.8636mm)         Round          32               5.06 Inch (128.52 mm)
-T5        35.43mil (0.89992mm)     Round          36               6.71 Inch (170.33 mm)
-T6        35.5mil (0.9017mm)       Round          32               3.60 Inch (91.44 mm)
+T5        35.43mil (0.89992mm)     Round          39               6.94 Inch (176.36 mm)
+T6        35.5mil (0.9017mm)       Round          33               4.60 Inch (116.72 mm)
 T7        38mil (0.9652mm)         Round          6                0.50 Inch (12.70 mm)
 T8        39.37mil (1mm)           Slot           3                286.81 Inch (7284.86 mm)
 T9        126mil (3.2004mm)        Round          1                0.00 Inch (0.00 mm)
 ---------------------------------------------------------------------------
-Totals                                            301              319.98 Inch (8127.44 mm)
+Totals                                            315              322.61 Inch (8194.42 mm)
 
 Total Processing Time (hh:mm:ss) : 00:00:01

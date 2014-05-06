@@ -1,7 +1,8 @@
 Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
 
+J14        HDR1X3            2745.079mil   2604.921mil   2745.079mil   2504.921mil   2745.079mil   2504.921mil  T         90.00 3-WAY JUMPER   
 J100       ARR_100X100X32P       1372mil       1926mil       1222mil       2276mil       1222mil       2276mil  T          0.00 ARR_32P        
-J13        HDR1X3                3135mil       2673mil       3035mil       2673mil       3035mil       2673mil  T        360.00 3-WAY JUMPER   
+J13        HDR1X3             3132.48mil   2605.315mil    3032.48mil   2605.315mil    3032.48mil   2605.315mil  T        360.00 3-WAY JUMPER   
 U6         SOT230P700X180-4L       2861mil       1618mil       2861mil       1618mil   2977.142mil   1708.551mil  B        180.00 AP2114H-3.3TRG1
 C34        CAPC0603(1608)55_L       2761mil       1456mil       2761mil       1456mil   2733.441mil       1456mil  B        360.00 CAP 4.7uF 10V 0603(1608)
 C33        CAPC0603(1608)55_L       2895mil       1456mil       2895mil       1456mil   2867.441mil       1456mil  B        360.00 CAP 4.7uF 10V 0603(1608)
@@ -82,4 +83,9 @@ R10        RESC0402(1005)40_L       1287mil       2830mil       1287mil       28
 R11        RESC0402(1005)40_L       1387mil       2830mil       1387mil       2830mil       1387mil   2812.284mil  T         90.00 33R 1 0402     
 R12        RESC0402(1005)40_L       1487mil       2830mil       1487mil       2830mil       1487mil   2812.284mil  T         90.00 33R 1 0402     
 J1         HEADER_10X2       1670.472mil   1370.898mil   1220.472mil   1318.898mil   1220.472mil   1320.898mil  T        360.00 Header 10X2    
+C60        CAPC0402(1005)60_L   2659.449mil    2696.85mil   2659.449mil    2696.85mil   2659.449mil   2712.598mil  B        270.00 CAP 100nF 10V 0402(1005)
+R70        RESC0402(1005)_L   2470.472mil   2732.284mil   2470.472mil   2732.284mil   2452.756mil   2732.284mil  T        360.00 56R 1% 0402(1005)
+U15        TI-DCK6_L         2630.905mil   2593.504mil   2630.905mil   2593.504mil   2656.496mil   2562.008mil  B         90.00 SN74LVC2G34DCKR
+TP1        TESTPOINT_TH      2577.756mil   2741.142mil   2577.756mil   2741.142mil   2577.756mil   2741.142mil  T          0.00 TESTPOINT_TH   
+LED1       LED0603           2475.374mil   2680.118mil   2507.874mil   2680.118mil   2507.874mil   2680.118mil  T        180.00 LED_GREEN_APT1608SGC
 

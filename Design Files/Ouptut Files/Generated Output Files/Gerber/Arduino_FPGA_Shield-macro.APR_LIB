@@ -1,5 +1,5 @@
-G04:AMPARAMS|DCode=55|XSize=178.11mil|YSize=99.37mil|CornerRadius=0mil|HoleSize=0mil|Usage=FLASHONLY|Rotation=180.000|XOffset=0mil|YOffset=0mil|HoleType=Slot|Shape=OvalRelief|Width=10mil|Gap=10mil|Entries=4|*
-%AMTHOVALD55*
+G04:AMPARAMS|DCode=57|XSize=178.11mil|YSize=99.37mil|CornerRadius=0mil|HoleSize=0mil|Usage=FLASHONLY|Rotation=180.000|XOffset=0mil|YOffset=0mil|HoleType=Slot|Shape=OvalRelief|Width=10mil|Gap=10mil|Entries=4|*
+%AMTHOVALD57*
 21,1,0.07874,0.09937,0,0,180.0*
 1,1,0.09937,0.03937,0.00000*
 1,1,0.09937,-0.03937,0.00000*
@@ -11,8 +11,8 @@ G04:AMPARAMS|DCode=55|XSize=178.11mil|YSize=99.37mil|CornerRadius=0mil|HoleSize=
 4,0,4,0.04291,0.00354,0.07804,-0.03160,0.07097,-0.03867,0.03583,-0.00354,0.04291,0.00354,0.0*
 4,0,4,-0.03583,0.00354,-0.07097,0.03867,-0.07804,0.03160,-0.04291,-0.00354,-0.03583,0.00354,0.0*
 %
-G04:AMPARAMS|DCode=56|XSize=178.11mil|YSize=99.37mil|CornerRadius=0mil|HoleSize=0mil|Usage=FLASHONLY|Rotation=270.000|XOffset=0mil|YOffset=0mil|HoleType=Slot|Shape=OvalRelief|Width=10mil|Gap=10mil|Entries=4|*
-%AMTHOVALD56*
+G04:AMPARAMS|DCode=58|XSize=178.11mil|YSize=99.37mil|CornerRadius=0mil|HoleSize=0mil|Usage=FLASHONLY|Rotation=270.000|XOffset=0mil|YOffset=0mil|HoleType=Slot|Shape=OvalRelief|Width=10mil|Gap=10mil|Entries=4|*
+%AMTHOVALD58*
 21,1,0.07874,0.09937,0,0,270.0*
 1,1,0.09937,0.00000,0.03937*
 1,1,0.09937,0.00000,-0.03937*
