@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\mattb_000\VHDL_Training\Cases\HelloWorld\HelloWorldSCH.ncd
+OUTFILE=C:\Users\mattb_000\VHDL_Training\Cases\HelloWorld\HelloWorldSCH.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=C:\Users\mattb_000\VHDL_Training\Cases\HelloWorld
+LICENSE=WebPack
+USER_INFO=210926527_0_0_622

@@ -1,0 +1,391 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> Reading design: HelloWorldSCH.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "HelloWorldSCH.prj"
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "HelloWorldSCH"
+Output Format                      : NGC
+Target Device                      : xc6slx9-2-tqg144
+
+---- Source Options
+Top Module Name                    : HelloWorldSCH
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Shift Register Extraction          : YES
+ROM Style                          : Auto
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Shift Register Minimum Size        : 2
+Use DSP Block                      : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+LUT Combining                      : Auto
+Reduce Control Sets                : Auto
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 16
+Register Duplication               : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Auto
+Use Synchronous Set                : Auto
+Use Synchronous Reset              : Auto
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Power Reduction                    : NO
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+DSP48 Utilization Ratio            : 100
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Parsing VHDL file "C:\Users\mattb_000\VHDL_Training\Cases\HelloWorld\HelloWorldVHD.vhd" into library work
+Parsing entity <HelloWorldVHD>.
+Parsing architecture <RTL> of entity <helloworldvhd>.
+Parsing VHDL file "C:\Users\mattb_000\VHDL_Training\Cases\HelloWorld\Bus_Breakout_4S4B.vhd" into library work
+Parsing entity <Bus_Breakout_4S4B>.
+Parsing architecture <STRUCTURE> of entity <bus_breakout_4s4b>.
+Parsing VHDL file "C:\Users\mattb_000\VHDL_Training\Cases\HelloWorld\HelloWorldSCH.vhf" into library work
+Parsing entity <HelloWorldSCH>.
+Parsing architecture <BEHAVIORAL> of entity <helloworldsch>.
+
+=========================================================================
+*                            HDL Elaboration                            *
+=========================================================================
+
+Elaborating entity <HelloWorldSCH> (architecture <BEHAVIORAL>) from library <work>.
+
+Elaborating entity <HelloWorldVHD> (architecture <RTL>) from library <work>.
+
+Elaborating entity <Bus_Breakout_4S4B> (architecture <STRUCTURE>) from library <work>.
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <HelloWorldSCH>.
+    Related source file is "C:\Users\mattb_000\VHDL_Training\Cases\HelloWorld\HelloWorldSCH.vhf".
+    Summary:
+	no macro.
+Unit <HelloWorldSCH> synthesized.
+
+Synthesizing Unit <HelloWorldVHD>.
+    Related source file is "C:\Users\mattb_000\VHDL_Training\Cases\HelloWorld\HelloWorldVHD.vhd".
+    Found 26-bit register for signal <flash.count>.
+    Found 1-bit register for signal <led_out>.
+    Found 26-bit adder for signal <flash.count[25]_GND_6_o_add_3_OUT> created at line 56.
+    Found 26-bit comparator greater for signal <flash.count[25]_GND_6_o_LessThan_1_o> created at line 51
+    Found 26-bit comparator lessequal for signal <flash.count[25]_PWR_6_o_LessThan_3_o> created at line 54
+    Summary:
+	inferred   1 Adder/Subtractor(s).
+	inferred  27 D-type flip-flop(s).
+	inferred   2 Comparator(s).
+Unit <HelloWorldVHD> synthesized.
+
+Synthesizing Unit <Bus_Breakout_4S4B>.
+    Related source file is "C:\Users\mattb_000\VHDL_Training\Cases\HelloWorld\Bus_Breakout_4S4B.vhd".
+    Summary:
+	no macro.
+Unit <Bus_Breakout_4S4B> synthesized.
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# Adders/Subtractors                                   : 1
+ 26-bit adder                                          : 1
+# Registers                                            : 2
+ 1-bit register                                        : 1
+ 26-bit register                                       : 1
+# Comparators                                          : 2
+ 26-bit comparator greater                             : 1
+ 26-bit comparator lessequal                           : 1
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+
+Synthesizing (advanced) Unit <HelloWorldVHD>.
+The following registers are absorbed into counter <flash.count>: 1 register on signal <flash.count>.
+Unit <HelloWorldVHD> synthesized (advanced).
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Macro Statistics
+# Counters                                             : 1
+ 26-bit up counter                                     : 1
+# Registers                                            : 1
+ Flip-Flops                                            : 1
+# Comparators                                          : 2
+ 26-bit comparator greater                             : 1
+ 26-bit comparator lessequal                           : 1
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <HelloWorldSCH> ...
+
+Mapping all equations...
+Building and optimizing final netlist ...
+Found area constraint ratio of 100 (+ 5) on block HelloWorldSCH, actual ratio is 0.
+
+Final Macro Processing ...
+
+=========================================================================
+Final Register Report
+
+Macro Statistics
+# Registers                                            : 27
+ Flip-Flops                                            : 27
+
+=========================================================================
+
+=========================================================================
+*                           Partition Report                            *
+=========================================================================
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+=========================================================================
+*                            Design Summary                             *
+=========================================================================
+
+Top Level Output File Name         : HelloWorldSCH.ngc
+
+Primitive and Black Box Usage:
+------------------------------
+# BELS                             : 122
+#      GND                         : 1
+#      INV                         : 1
+#      LUT1                        : 25
+#      LUT2                        : 26
+#      LUT3                        : 1
+#      LUT4                        : 2
+#      LUT5                        : 3
+#      LUT6                        : 9
+#      MUXCY                       : 25
+#      MUXF7                       : 2
+#      VCC                         : 1
+#      XORCY                       : 26
+# FlipFlops/Latches                : 27
+#      FD                          : 26
+#      FDS                         : 1
+# Clock Buffers                    : 1
+#      BUFGP                       : 1
+# IO Buffers                       : 4
+#      OBUF                        : 4
+
+Device utilization summary:
+---------------------------
+
+Selected Device : 6slx9tqg144-2 
+
+
+Slice Logic Utilization: 
+ Number of Slice Registers:              27  out of  11440     0%  
+ Number of Slice LUTs:                   67  out of   5720     1%  
+    Number used as Logic:                67  out of   5720     1%  
+
+Slice Logic Distribution: 
+ Number of LUT Flip Flop pairs used:     67
+   Number with an unused Flip Flop:      40  out of     67    59%  
+   Number with an unused LUT:             0  out of     67     0%  
+   Number of fully used LUT-FF pairs:    27  out of     67    40%  
+   Number of unique control sets:         2
+
+IO Utilization: 
+ Number of IOs:                           5
+ Number of bonded IOBs:                   5  out of    102     4%  
+
+Specific Feature Utilization:
+ Number of BUFG/BUFGCTRLs:                1  out of     16     6%  
+
+---------------------------
+Partition Resource Summary:
+---------------------------
+
+  No Partitions were found in this design.
+
+---------------------------
+
+
+=========================================================================
+Timing Report
+
+NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
+      FOR ACCURATE TIMING INFORMATION PLEASE REFER TO THE TRACE REPORT
+      GENERATED AFTER PLACE-and-ROUTE.
+
+Clock Information:
+------------------
+-----------------------------------+------------------------+-------+
+Clock Signal                       | Clock buffer(FF name)  | Load  |
+-----------------------------------+------------------------+-------+
+CLK_BRD                            | BUFGP                  | 27    |
+-----------------------------------+------------------------+-------+
+
+Asynchronous Control Signals Information:
+----------------------------------------
+No asynchronous control signals found in this design
+
+Timing Summary:
+---------------
+Speed Grade: -2
+
+   Minimum period: 4.724ns (Maximum Frequency: 211.685MHz)
+   Minimum input arrival time before clock: No path found
+   Maximum output required time after clock: 4.240ns
+   Maximum combinational path delay: No path found
+
+Timing Details:
+---------------
+All values displayed in nanoseconds (ns)
+
+=========================================================================
+Timing constraint: Default period analysis for Clock 'CLK_BRD'
+  Clock period: 4.724ns (frequency: 211.685MHz)
+  Total number of paths / destination ports: 1162 / 28
+-------------------------------------------------------------------------
+Delay:               4.724ns (Levels of Logic = 3)
+  Source:            XLXI_1/flash.count_14 (FF)
+  Destination:       XLXI_1/flash.count_1 (FF)
+  Source Clock:      CLK_BRD rising
+  Destination Clock: CLK_BRD rising
+
+  Data Path: XLXI_1/flash.count_14 to XLXI_1/flash.count_1
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FD:C->Q               4   0.525   1.234  XLXI_1/flash.count_14 (XLXI_1/flash.count_14)
+     LUT5:I0->O            2   0.254   1.002  XLXI_1/_n00202 (XLXI_1/_n00202)
+     LUT6:I2->O           14   0.254   1.127  XLXI_1/_n00204 (XLXI_1/_n0020)
+     LUT2:I1->O            1   0.254   0.000  XLXI_1/flash.count_1_rstpot (XLXI_1/flash.count_1_rstpot)
+     FD:D                      0.074          XLXI_1/flash.count_1
+    ----------------------------------------
+    Total                      4.724ns (1.361ns logic, 3.363ns route)
+                                       (28.8% logic, 71.2% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'CLK_BRD'
+  Total number of paths / destination ports: 4 / 4
+-------------------------------------------------------------------------
+Offset:              4.240ns (Levels of Logic = 1)
+  Source:            XLXI_1/led_out (FF)
+  Destination:       UIO<3> (PAD)
+  Source Clock:      CLK_BRD rising
+
+  Data Path: XLXI_1/led_out to UIO<3>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FDS:C->Q              4   0.525   0.803  XLXI_1/led_out (XLXI_1/led_out)
+     OBUF:I->O                 2.912          UIO_3_OBUF (UIO<3>)
+    ----------------------------------------
+    Total                      4.240ns (3.437ns logic, 0.803ns route)
+                                       (81.1% logic, 18.9% route)
+
+=========================================================================
+
+Cross Clock Domains Report:
+--------------------------
+
+Clock to Setup on destination clock CLK_BRD
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+CLK_BRD        |    4.724|         |         |         |
+---------------+---------+---------+---------+---------+
+
+=========================================================================
+
+
+Total REAL time to Xst completion: 6.00 secs
+Total CPU time to Xst completion: 6.50 secs
+ 
+--> 
+
+Total memory usage is 237820 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

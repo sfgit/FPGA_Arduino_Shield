@@ -1,0 +1,27 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Tue Dec 09 11:33:46 2014
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "UIO<0>" LOCATE = SITE "P134" LEVEL 1;
+COMP "UIO<1>" LOCATE = SITE "P126" LEVEL 1;
+COMP "UIO<2>" LOCATE = SITE "P120" LEVEL 1;
+COMP "UIO<3>" LOCATE = SITE "P116" LEVEL 1;
+COMP "CLK_BRD" LOCATE = SITE "P56" LEVEL 1;
+TIMEGRP TNM_CLK_BRD = BEL "XLXI_1/led_out" BEL "XLXI_1/flash.count_0" BEL
+        "XLXI_1/flash.count_1" BEL "XLXI_1/flash.count_2" BEL
+        "XLXI_1/flash.count_3" BEL "XLXI_1/flash.count_4" BEL
+        "XLXI_1/flash.count_5" BEL "XLXI_1/flash.count_6" BEL
+        "XLXI_1/flash.count_7" BEL "XLXI_1/flash.count_8" BEL
+        "XLXI_1/flash.count_9" BEL "XLXI_1/flash.count_10" BEL
+        "XLXI_1/flash.count_11" BEL "XLXI_1/flash.count_12" BEL
+        "XLXI_1/flash.count_13" BEL "XLXI_1/flash.count_14" BEL
+        "XLXI_1/flash.count_15" BEL "XLXI_1/flash.count_16" BEL
+        "XLXI_1/flash.count_17" BEL "XLXI_1/flash.count_18" BEL
+        "XLXI_1/flash.count_19" BEL "XLXI_1/flash.count_20" BEL
+        "XLXI_1/flash.count_21" BEL "XLXI_1/flash.count_22" BEL
+        "XLXI_1/flash.count_23" BEL "XLXI_1/flash.count_24" BEL
+        "XLXI_1/flash.count_25" BEL "CLK_BRD_BUFGP/BUFG";
+TS_CLK_BRD = PERIOD TIMEGRP "TNM_CLK_BRD" 20 MHz HIGH 50%;
+SCHEMATIC END;
+

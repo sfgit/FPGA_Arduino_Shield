@@ -1,0 +1,20 @@
+xst -intstyle ise -ifn "C:/Users/mattb_000/VHDL_Training/Cases/HelloWorld/HelloWorldSCH.xst" -ofn "C:/Users/mattb_000/VHDL_Training/Cases/HelloWorld/HelloWorldSCH.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 HelloWorldSCH.ngc HelloWorldSCH.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o HelloWorldSCH_map.ncd HelloWorldSCH.ngd HelloWorldSCH.pcf 
+par -w -intstyle ise -ol high -mt off HelloWorldSCH_map.ncd HelloWorldSCH.ncd HelloWorldSCH.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml HelloWorldSCH.twx HelloWorldSCH.ncd -o HelloWorldSCH.twr HelloWorldSCH.pcf 
+bitgen -intstyle ise -f HelloWorldSCH.ut HelloWorldSCH.ncd 
+xst -intstyle ise -ifn "C:/Users/mattb_000/VHDL_Training/Cases/HelloWorld/HelloWorldSCH.xst" -ofn "C:/Users/mattb_000/VHDL_Training/Cases/HelloWorld/HelloWorldSCH.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc PRJCONSTRAINTS.ucf -p xc6slx9-tqg144-2 HelloWorldSCH.ngc HelloWorldSCH.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc PRJCONSTRAINTS.ucf -p xc6slx9-tqg144-2 HelloWorldSCH.ngc HelloWorldSCH.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc PRJCONSTRAINTS.ucf -p xc6slx9-tqg144-2 HelloWorldSCH.ngc HelloWorldSCH.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o HelloWorldSCH_map.ncd HelloWorldSCH.ngd HelloWorldSCH.pcf 
+par -w -intstyle ise -ol high -mt off HelloWorldSCH_map.ncd HelloWorldSCH.ncd HelloWorldSCH.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml HelloWorldSCH.twx HelloWorldSCH.ncd -o HelloWorldSCH.twr HelloWorldSCH.pcf -ucf PRJCONSTRAINTS.ucf 
+bitgen -intstyle ise -f HelloWorldSCH.ut HelloWorldSCH.ncd 
+xst -intstyle ise -ifn "C:/Users/mattb_000/VHDL_Training/Cases/HelloWorld/HelloWorldSCH.xst" -ofn "C:/Users/mattb_000/VHDL_Training/Cases/HelloWorld/HelloWorldSCH.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc PRJCONSTRAINTS.ucf -p xc6slx9-tqg144-2 HelloWorldSCH.ngc HelloWorldSCH.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o HelloWorldSCH_map.ncd HelloWorldSCH.ngd HelloWorldSCH.pcf 
+par -w -intstyle ise -ol high -mt off HelloWorldSCH_map.ncd HelloWorldSCH.ncd HelloWorldSCH.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml HelloWorldSCH.twx HelloWorldSCH.ncd -o HelloWorldSCH.twr HelloWorldSCH.pcf -ucf PRJCONSTRAINTS.ucf 
+bitgen -intstyle ise -f HelloWorldSCH.ut HelloWorldSCH.ncd 

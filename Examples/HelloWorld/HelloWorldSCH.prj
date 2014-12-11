@@ -1,0 +1,3 @@
+vhdl work "HelloWorldVHD.vhd"
+vhdl work "Bus_Breakout_4S4B.vhd"
+vhdl work "HelloWorldSCH.vhf"

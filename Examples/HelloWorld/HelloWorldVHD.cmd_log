@@ -1,0 +1,2 @@
+vhdtdtfi -lib work HelloWorldVHD.vhd -prj HelloWorld -o HelloWorldVHD.spl -module HelloWorldVHD -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 HelloWorldVHD.spl C:/Users/mattb_000/VHDL_Training/Cases/HelloWorld/HelloWorldVHD.sym 

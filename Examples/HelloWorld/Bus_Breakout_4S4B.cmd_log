@@ -1,0 +1,2 @@
+vhdtdtfi -lib work Bus_Breakout_4S4B.vhd -prj HelloWorld -o Bus_Breakout_4S4B.spl -module Bus_Breakout_4S4B -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 Bus_Breakout_4S4B.spl C:/Users/mattb_000/VHDL_Training/Cases/HelloWorld/Bus_Breakout_4S4B.sym 
