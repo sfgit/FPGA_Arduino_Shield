@@ -26,7 +26,7 @@ own system (the FPGA becoming the more prominent part of the system).  FPGAs are
 parallel operations including DSP operations, audio, video, bitminer, etc. that an OTS CPU may not 
 be suited for.  
 
-Project details are available at:  projects.hackaday.com and the design files are starting
+Project details are available at:  hackaday.io/matt and the design files are starting
 to trickle in here.  Regular revisions to the schematics are rolling in as changes are made and 
 the structure of the project may change dramatically over time.  This means some design files 
 may vanish.  If you need access to them, roll back.  If you have questions, please ask.  If 
