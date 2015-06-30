@@ -29,7 +29,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
+OutputPath=Project Outputs for Arduino - FPGA Development Board
 
 [Document1]
 DocumentPath=FPGA - XC6SLX9-2TQG144C.schdoc
@@ -624,7 +624,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document38]
-DocumentPath=Complete - Arduino FPGA Board (Camtastic).cam
+DocumentPath=CAMtastic Format CAM Document.cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -656,7 +656,271 @@ DocumentPath=Generated Output Files\NC Drill\Arduino_FPGA_Shield.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GM69
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
 DocumentPath=Generated Output Files\NC Drill\Arduino_FPGA_Shield.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Generated Output Files\ODB\Arduino_FPGA_Shield.REP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Generated Output Files\Gerber\Arduino_FPGA_Shield.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Generated Output Files\ODB\odb\user\Arduino_FPGA_Shield.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Generated Output Files\BOM\Bill of Materials-Arduino - FPGA Development Board.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\bottomoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\bottompaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\bottomsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\keepout\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\mechanical1\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\mechanical2\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\mechanical4\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\mechanical7\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\mechanical13\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\mechanical15\features
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\mechanical16\features
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\mechanical20\features
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\mechanical69\features
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\plane1\features
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\plane2\features
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\topoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\topsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Generated Output Files\ODB\odb\symbols\oblong_th130.8661x107.2441x45x4x10_90\features
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Generated Output Files\ODB\odb\symbols\oblong_th130.8661x107.2441x45x4x10_360\features
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Generated Output Files\ODB\odb\symbols\oval110.8661x87.2441_360\features
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Generated Output Files\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Generated Output Files\Pick Place\Pick Place for Arduino_FPGA_Shield.csv
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Generated Output Files\Pick Place\Pick Place for Arduino_FPGA_Shield.txt
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Generated Output Files\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -704,7 +968,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Arduino - FPGA Development Board
 
 [OutputGroup1]
 Name=Netlist Outputs

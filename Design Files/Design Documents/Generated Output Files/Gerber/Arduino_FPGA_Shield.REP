@@ -1,0 +1,565 @@
+*************************************************************
+FileName = Arduino_FPGA_Shield.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top
+      File : Arduino_FPGA_Shield.GTL
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : PWR
+      File : Arduino_FPGA_Shield.GP1
+
+    Adding Layer      : PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D43
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : Arduino_FPGA_Shield.GP2
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D43
+    D46
+    D47
+    D48
+    D49
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D58
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Bottom
+      File : Arduino_FPGA_Shield.GBL
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Arduino_FPGA_Shield.GPB
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D19
+    D20
+    D21
+    D22
+    D23
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Arduino_FPGA_Shield.GPT
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Arduino_FPGA_Shield.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D24
+    D25
+    D30
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Arduino_FPGA_Shield.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Arduino_FPGA_Shield.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Arduino_FPGA_Shield.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D105
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Arduino_FPGA_Shield.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D91
+    D96
+    D97
+    D98
+    D99
+    D100
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Arduino_FPGA_Shield.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D24
+    D25
+    D80
+    D81
+    D83
+    D84
+*************************************************************
+
+*************************************************************
+Generating : Dimension
+      File : Arduino_FPGA_Shield.GM1
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : tNames
+      File : Arduino_FPGA_Shield.GM2
+
+    Adding Layer      : tNames
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : tValues
+      File : Arduino_FPGA_Shield.GM4
+
+    Adding Layer      : tValues
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : bGlue
+      File : Arduino_FPGA_Shield.GM7
+
+    Adding Layer      : bGlue
+
+
+Used DCodes :
+    D25
+    D150
+    D151
+*************************************************************
+
+*************************************************************
+Generating : Document
+      File : Arduino_FPGA_Shield.GM13
+
+    Adding Layer      : Document
+
+
+Used DCodes :
+    D25
+    D152
+    D153
+    D154
+*************************************************************
+
+*************************************************************
+Generating : ReferenceLS
+      File : Arduino_FPGA_Shield.GM15
+
+    Adding Layer      : ReferenceLS
+
+
+Used DCodes :
+    D25
+    D152
+    D155
+*************************************************************
+
+*************************************************************
+Generating : tDocu
+      File : Arduino_FPGA_Shield.GM16
+
+    Adding Layer      : tDocu
+
+
+Used DCodes :
+    D25
+    D156
+*************************************************************
+
+*************************************************************
+Generating : Unrouted
+      File : Arduino_FPGA_Shield.GM20
+
+    Adding Layer      : Unrouted
+
+
+Used DCodes :
+    D25
+    D157
+*************************************************************
+
+*************************************************************
+Generating : 214bmp
+      File : Arduino_FPGA_Shield.GM69
+
+    Adding Layer      : 214bmp
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Arduino_FPGA_Shield.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Arduino_FPGA_Shield.GD1
+
+    Adding Drill Pair : Top-Bottom
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D25
+    D78
+    D151
+    D158
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Arduino_FPGA_Shield.GG1
+
+    Adding Drill Pair : Top-Bottom
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D25
+*************************************************************
+

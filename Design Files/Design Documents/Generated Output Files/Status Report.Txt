@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [Arduino_FPGA_Shield.PcbDoc]
+   Generated File[Pick Place for Arduino_FPGA_Shield.txt]
+   Generated File[Pick Place for Arduino_FPGA_Shield.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 12:22:55 PM On 6/30/2015
